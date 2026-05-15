@@ -3,6 +3,11 @@
 bash <(curl -fsSL https://raw.githubusercontent.com/Aki1106-0116/Three-Protocol-Script/refs/heads/main/jb-combo-installer.sh)
 ```
 
+低配置机器
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/Aki1106-0116/Three-Protocol-Script/refs/heads/main/jb-combo-installer-dipeizhi.sh)
+```
+
 
 这是一个用于 Debian / Ubuntu 的一键组合安装器脚本，可根据选择自动部署以下节点组合：
 
