@@ -1,6 +1,6 @@
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/Aki1106-0116/Three-Protocol-Script/refs/heads/main/jb-combo-installer-zuixin.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/Aki1106-0116/Three-Protocol-Script/refs/heads/main/jb-combo-installer.sh)
 ```
 
 
