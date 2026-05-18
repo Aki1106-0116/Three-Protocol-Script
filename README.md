@@ -1,3 +1,4 @@
+Debian&Ubuntu机器安装命令
 
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/Aki1106-0116/Three-Protocol-Script/refs/heads/main/jb-combo-installer.sh)
